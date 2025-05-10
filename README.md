@@ -110,7 +110,7 @@ This project is open-source and available under the [MIT License](LICENSE.txt). 
 
 *   **Jeevan S.**
 *   GitHub: [@iamsjeevan](https://github.com/iamsjeevan)
-*   LinkedIn: [Jeevan S.](https://www.linkedin.com/in/jeevan-s-655393331) (Replace with your LinkedIn profile URL if different)
+*   LinkedIn: [Jeevan S.](https://www.linkedin.com/in/jeevan-s-655393331) 
 
 ---
 
